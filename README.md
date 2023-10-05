@@ -1,4 +1,4 @@
-# Future Data Scientist
+# Future Data Scientist and Developer
 
 Involved in programming and data exploration using Python. I have a degree in Systems Analysis and Development and I am studying Data Science!
 
