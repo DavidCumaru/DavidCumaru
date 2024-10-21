@@ -1,4 +1,4 @@
-# Future Data Scientist!
+# Data is life!
 
 Involved in programming and data exploration using Python. I have a degree in Systems Analysis and Development and I am studying Data Science!
 
