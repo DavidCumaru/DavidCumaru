@@ -1,65 +1,65 @@
 # 👨‍💻 David Cumaru - Data is life
 
-🎯 **Objetivo**: Analista / Cientista de Dados  
-📍 **Localização**: Rio de Janeiro, Brasil  
-📫 **Contato**: [david.cumaruu@gmail.com](mailto:david.cumaruu@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/david-cumaru/) | [Portfólio no GitHub](https://github.com/DavidCumaru)
+🎯 **Objective**: Data Analyst / Data Scientist  
+📍 **Location**: Rio de Janeiro, Brazil  
+📫 **Contact**: [david.cumaruu@gmail.com](mailto:david.cumaruu@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/david-cumaru/) | [GitHub Portfolio](https://github.com/DavidCumaru)
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Ciência de Dados** no INFNET. Busco minha primeira oportunidade no mercado de tecnologia, com foco em **Data Science**, **Machine Learning** e **Desenvolvimento de Soluções Inteligentes**.  
-Tenho paixão por aprender, trabalhar em equipe e transformar dados em decisões inteligentes.
-
----
-
-## 🚀 Habilidades Técnicas
-
-- **Linguagens de Programação**: Python, SQL  
-- **Ferramentas e Frameworks**: Jupyter Notebook, Spring Boot, Apache Spark, TensorFlow, scikit-learn  
-- **Visualização de Dados**: Power BI, Google Data Studio  
-- **Banco de Dados**: MySQL, PostgreSQL  
-- **Outros**: Git, Excel, Metodologias Ágeis  
-- **Conceitos**: EDA, Machine Learning, Deep Learning, NLP, Data Warehouse, Data Lake
+I hold a degree in **Systems Analysis and Development** and I’m currently studying **Data Science** at INFNET. I am seeking my first opportunity in the tech industry, focusing on **Data Science**, **Machine Learning**, and the development of **Intelligent Solutions**.  
+I’m passionate about learning, teamwork, and turning data into smart decisions.
 
 ---
 
-## 🧪 Projetos em Destaque
+## 🚀 Technical Skills
+
+- **Programming Languages**: Python, SQL  
+- **Tools & Frameworks**: Jupyter Notebook, Spring Boot, Apache Spark, TensorFlow, scikit-learn  
+- **Data Visualization**: Power BI, Google Data Studio  
+- **Databases**: MySQL, PostgreSQL  
+- **Others**: Git, Excel, Agile Methodologies  
+- **Concepts**: EDA, Machine Learning, Deep Learning, NLP, Data Warehouse, Data Lake
+
+---
+
+## 🧪 Highlighted Projects
 
 ### 🎧 [SpotifyStreamlit](https://github.com/DavidCumaru)
-🔹 Sistema inteligente de recomendação de músicas utilizando **LLM**, com API local e interface em **Streamlit**.
+🔹 Intelligent music recommendation system using **LLM**, with a local API and an interactive **Streamlit** interface.
 
 ### ❤️ [Heart Disease Detection](https://github.com/DavidCumaru)
-🔹 Sistema de detecção de doenças cardíacas usando **Machine Learning** e análise exploratória de dados.
+🔹 Heart disease detection system using **Machine Learning** and exploratory data analysis.
 
 ### 🧠 [Brain Tumor Detection](https://github.com/DavidCumaru)
-🔹 Classificação de imagens médicas com **Deep Learning**, utilizando redes neurais convolucionais em Python.
+🔹 Medical image classification using **Deep Learning**, with convolutional neural networks in Python.
 
 ---
 
-## 📚 Formação Acadêmica
+## 📚 Education
 
-🎓 **Análise e Desenvolvimento de Sistemas** – SENAC RJ (concluído em jul/2023)  
-🎓 **Ciência de Dados** – INFNET (previsão: dez/2025)
-
----
-
-## 📈 Experiência Profissional
-
-🔹 **Buscando minha primeira oportunidade na área de tecnologia**  
-🔹 Participações em eventos como **Hacking Rio** e o **Curso de Data Science da UFF** no Programa de Formação de Executivos.
+🎓 **Systems Analysis and Development** – SENAC RJ (graduated Jul/2023)  
+🎓 **Data Science** – INFNET (expected Dec/2025)
 
 ---
 
-## 🌱 Em constante aprendizado
+## 📈 Work Experience
 
-Atualmente focado em:
-- Modelos LLM e IA generativa
-- Otimização de pipelines de dados
-- Projetos open source e colaboração em equipe
+🔹 **Looking for my first opportunity in the tech industry**  
+🔹 Participated in tech events such as **Hacking Rio** and the **Data Science Executive Training Program at UFF**.
 
 ---
 
-📫 Sinta-se à vontade para entrar em contato e colaborar!  
-Vamos transformar dados em soluções juntos! 🚀
+## 🌱 Always Learning
+
+Currently focused on:
+- LLMs and Generative AI
+- Optimizing data pipelines
+- Open source projects and team collaboration
+
+---
+
+📫 Feel free to reach out and collaborate!  
+Let’s turn data into smart solutions together! 🚀
