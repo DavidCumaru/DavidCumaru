@@ -3,7 +3,7 @@
 🎯 **Objective**: Data Analyst / Data Scientist  
 📍 **Location**: Rio de Janeiro, Brazil  
 📫 **Contact**: [david.cumaruu@gmail.com](mailto:david.cumaruu@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/david-cumaru/) | [GitHub Portfolio](https://github.com/DavidCumaru)
+🔗 [LinkedIn](https://www.linkedin.com/in/david-cumaru/)
 
 ---
 
