@@ -27,13 +27,13 @@ I’m passionate about learning, teamwork, and turning data into smart decisions
 
 ## 🧪 Highlighted Projects
 
-### 🎧 [SpotifyStreamlit](https://github.com/DavidCumaru)
+### 🎧 [SpotifyStreamlit](https://github.com/DavidCumaru/Spotify_streamlit)
 🔹 Intelligent music recommendation system using **LLM**, with a local API and an interactive **Streamlit** interface.
 
-### ❤️ [Heart Disease Detection](https://github.com/DavidCumaru)
+### ❤️ [Heart Disease Detection](https://github.com/DavidCumaru/HeartDiseaseClassification)
 🔹 Heart disease detection system using **Machine Learning** and exploratory data analysis.
 
-### 🧠 [Brain Tumor Detection](https://github.com/DavidCumaru)
+### 🧠 [Brain Tumor Detection](https://github.com/DavidCumaru/Brain_tumor_detection)
 🔹 Medical image classification using **Deep Learning**, with convolutional neural networks in Python.
 
 ---
