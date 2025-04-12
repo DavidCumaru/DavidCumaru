@@ -17,7 +17,7 @@ I’m passionate about learning, teamwork, and turning data into smart decisions
 ## 🚀 Technical Skills
 
 - **Programming Languages**: Python, SQL  
-- **Tools & Frameworks**: Jupyter Notebook, Spring Boot, Apache Spark, TensorFlow, scikit-learn  
+- **Tools & Frameworks**: Jupyter Notebook, Apache Spark, TensorFlow, scikit-learn  
 - **Data Visualization**: Power BI, Google Data Studio  
 - **Databases**: MySQL, PostgreSQL  
 - **Others**: Git, Excel, Agile Methodologies  
